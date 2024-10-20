@@ -1,5 +1,5 @@
 // karperkar number
-// 45^2 = 2025 -> 20+25 = 45 -> so its karperkar number 
+// 45<sub>2</sub> = 2025 -> 20+25 = 45 -> so its karperkar number 
 /*
     input : 45
     * first square this number 
