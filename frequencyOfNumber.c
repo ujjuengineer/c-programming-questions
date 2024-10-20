@@ -1,3 +1,4 @@
+// given an array, WAP to print the frequency of all the number 
 #include<stdio.h>
 #include<limits.h>
 int main(){ 
