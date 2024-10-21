@@ -9,7 +9,7 @@
     * count number of digit 
         dig = 4
     * created a helper function that will take input of reversed number, first and last index and return
-      the digits between first and last index 
+      the digits between first and last index                                   
 
     
 */
